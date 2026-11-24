@@ -8,10 +8,7 @@ The display shows bank (roll) and pitch attitude using a moving blue/brown or bl
 
 ### Video Demo
 
-<video src="videos/artificial-horizon-demo.mp4"
-       controls
-       width="320">
-</video>
+![ESP32 Digital Artificial Horizon](videos/artificial-horizon-demo.gif)
 
 ### Mode 1: Classic Display — Blue sky / brown ground
 
