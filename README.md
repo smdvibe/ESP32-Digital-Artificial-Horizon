@@ -6,10 +6,19 @@ The display shows bank (roll) and pitch attitude using a moving blue/brown or bl
 
 ## Preview
 
+### Video Demo
+
+<video src="videos/artificial-horizon-demo.mp4"
+       controls
+       width="320">
+</video>
+
 ### Mode 1: Classic Display — Blue sky / brown ground
+
 ![Mode 1](images/mode-1-blue-brown.jpg)
 
 ### Mode 2: Night Display — Blue sky / dark ground
+
 ![Mode 2](images/mode-2-blue-navy.jpg)
 
 ## Hardware
